@@ -1,4 +1,3 @@
-![Dashboard Preview](Coffee Sales Dashboard.png)
 # ☕ Coffee Sales Dashboard (Excel)
 
 ## 📊 Project Overview
